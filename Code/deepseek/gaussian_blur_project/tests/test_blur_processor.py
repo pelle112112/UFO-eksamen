@@ -3,7 +3,7 @@ from pathlib import Path
 import cv2
 import numpy as np
 
-from image_processing.blur_processor import ImageBlurProcessor
+from image_processing.blue_processor import ImageBlurProcessor
 
 class TestImageBlurProcessor(unittest.TestCase):
     """Test cases for the ImageBlurProcessor class."""
