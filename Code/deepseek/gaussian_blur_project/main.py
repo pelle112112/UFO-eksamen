@@ -6,7 +6,7 @@ def main():
     """Main function to execute the image blurring process."""
     # Configuration - you should update these paths as needed
     input_image_path = Path("data/input/test_image.jpg")
-    output_image_path = Path("data/output/blurred_image.jpg")
+    output_image_path = Path("data/output/blurred_image2.jpg")
     
     # Initialize the blur processor with optimized parameters
     # Larger kernel size and sigma will produce more blur

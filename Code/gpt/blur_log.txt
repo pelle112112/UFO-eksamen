@@ -1,1 +1,6 @@
 2025-03-26 10:49:46,881 - INFO - Blurring completed in 0.4295 seconds. Output saved to blurred_output.jpg
+2025-03-26 12:06:15,915 - INFO - Blurring completed in 1.0776 seconds. Output saved to blurred_output.jpg
+2025-03-26 12:06:19,347 - INFO - Blurring completed in 1.0402 seconds. Output saved to blurred_output.jpg
+2025-03-26 12:06:21,768 - INFO - Blurring completed in 1.0776 seconds. Output saved to blurred_output.jpg
+2025-03-26 12:06:24,087 - INFO - Blurring completed in 1.0271 seconds. Output saved to blurred_output.jpg
+2025-03-26 12:06:26,409 - INFO - Blurring completed in 1.0412 seconds. Output saved to blurred_output.jpg
